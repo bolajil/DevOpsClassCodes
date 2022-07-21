@@ -71,4 +71,4 @@ To use the built in server adapters of Eclipse, instead of doing "Run As -> Mave
 This is first trigger.
 This is my second trigger.Another trigger testing using webhook
 Retry on webhook connection
-Testing branch commit
+Testing new branch commit
